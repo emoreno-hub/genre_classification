@@ -1,0 +1,6 @@
+wandb/
+mlruns/
+outputs/
+artifacts/
+multirun/
+**/__pycache__/
